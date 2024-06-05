@@ -1,6 +1,7 @@
 1. Explain the 'this' keyword in JavaScript.
           The this keyword refers to the object that is executing the current function.
 Example:
+
 const person = {
     name: 'John',
     greet: function() {
